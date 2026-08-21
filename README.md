@@ -10,4 +10,5 @@ Enter the Security Alert Information, Incident Summary, Authentication Activity,
 Select “Create Ticket” to complete the ticket submission process.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/3525c0e4697249e62c3dad4a29230c3247f149f6/Screenshot%202026-08-18%20011200.png)
 Log in to your SOC L1 account.
-
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/18d360a54a671500e8b3dab5fac6176da292b048/Screenshot%202026-08-20%20130819.png)
+Select the Potential Brute Force Attack ticket.
