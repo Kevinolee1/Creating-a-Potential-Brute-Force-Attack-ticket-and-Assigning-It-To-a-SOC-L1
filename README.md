@@ -14,3 +14,5 @@ Log in to your SOC L1 account.
 Select the Potential Brute Force Attack ticket.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/b0db2eb435dbffd3527242196d9c4dbbaf95a733/Screenshot%202026-08-20%20131257.png)
 Update the ticket priority to high.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/60f045c0d52fbc9ddfa5154556a8e4993b386464/Screenshot%202026-08-20%20131602.png)
+Assign the ticket to a SOC Level 1 (SOC L1) Analyst for investigation and triage.
