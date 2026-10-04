@@ -30,3 +30,5 @@ Update the ticket priority to high.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/1dafca38549b282fe780730eccab4d2989707ae8/Screenshot%202026-10-04%20160852.png)
 
 Assign the ticket to a SOC Level 1 (SOC L1) Analyst for investigation and triage.
+
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/4b80feab7235f36d05df409efff00c310f4e1738/Screenshot%202026-10-04%20160949.png)
