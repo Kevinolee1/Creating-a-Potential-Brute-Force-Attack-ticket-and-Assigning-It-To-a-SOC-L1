@@ -23,7 +23,9 @@ Log in to your Admin account.
 
 Select the Suspicious login Activity ticket.
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/d1799225be9ecf2a1d950607dacf0bd8be8c192f/Screenshot%202026-10-04%20160620.png)
+
 Update the ticket priority to high.
+
 ![Image alt]()
 Assign the ticket to a SOC Level 1 (SOC L1) Analyst for investigation and triage.
