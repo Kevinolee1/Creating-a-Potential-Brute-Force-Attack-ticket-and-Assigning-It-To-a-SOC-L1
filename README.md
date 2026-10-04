@@ -1,9 +1,12 @@
 # Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1
 A potential brute force attack was detected involving multiple failed authentication attempts against a user account or system. The alert was documented and assigned to a SOC Level 1 Analyst for investigation.
-![Image alt]()
+
 Select “Open New Ticket” to create a new support ticket
-![Image alt]()
+
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/6b5633650677f355ec73a55ce74429b2ef0aa69b/Screenshot%202026-10-04%20154908.png)
+
 Enter the victim’s name and email address in the appropriate fields. In the Issue Summary field, enter: Potential Brute Force Attack
+
 ![Image alt]()
 Enter the Security Alert Information, Incident Summary, Authentication Activity, and Indicators of Compromise (IOCs) in the corresponding sections.
 ![Image alt]()
