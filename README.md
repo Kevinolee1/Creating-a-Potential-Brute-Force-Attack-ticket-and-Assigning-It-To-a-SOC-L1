@@ -19,8 +19,10 @@ The ticket submission is complete
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/5ff9eece01f4b13cb2bcdec595bbf95476fc4115/Screenshot%202026-10-04%20160145.png)
 
 Log in to your Admin account.
-![Image alt]()
-Select the Potential Brute Force Attack ticket.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/ec6df40ae05ad3ba423ade5cd9a3479c96e2b216/Screenshot%202026-10-04%20160324.png)
+
+Select the Suspicious login Activity ticket.
+
 ![Image alt]()
 Update the ticket priority to high.
 ![Image alt]()
