@@ -5,17 +5,20 @@ Select “Open New Ticket” to create a new support ticket
 
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/6b5633650677f355ec73a55ce74429b2ef0aa69b/Screenshot%202026-10-04%20154908.png)
 
-Enter the victim’s name and email address in the appropriate fields. In the Issue Summary field, enter: Potential Brute Force Attack
+Enter the victim’s name and email address in the appropriate fields. In the Issue Summary field, enter: Suspicious login activity
 
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/c3dc2df0427a526151a54e17155c712e15749ad1/Screenshot%202026-10-04%20155703.png)
 
-Enter the Security Alert Information, Incident Summary, Authentication Activity, and Indicators of Compromise (IOCs) in the corresponding sections.
+Enter the Security Alert Information, Incident Summary, Authentication Activity, Indicators of Compromise (IOCs) in the corresponding sections, and select “Create Ticket” to complete the ticket submission process.
 
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/33dd4f6b79d823fef91eb0597833fb7a3ce15f6a/Screenshot%202026-10-04%20160056.png)
 
-Select “Create Ticket” to complete the ticket submission process.
-![Image alt]()
-Log in to your SOC L1 account.
+
+The ticket submission is complete
+
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/5ff9eece01f4b13cb2bcdec595bbf95476fc4115/Screenshot%202026-10-04%20160145.png)
+
+Log in to your Admin account.
 ![Image alt]()
 Select the Potential Brute Force Attack ticket.
 ![Image alt]()
