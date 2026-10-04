@@ -10,7 +10,9 @@ Enter the victim’s name and email address in the appropriate fields. In the Is
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/c3dc2df0427a526151a54e17155c712e15749ad1/Screenshot%202026-10-04%20155703.png)
 
 Enter the Security Alert Information, Incident Summary, Authentication Activity, and Indicators of Compromise (IOCs) in the corresponding sections.
-![Image alt]()
+
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/33dd4f6b79d823fef91eb0597833fb7a3ce15f6a/Screenshot%202026-10-04%20160056.png)
+
 Select “Create Ticket” to complete the ticket submission process.
 ![Image alt]()
 Log in to your SOC L1 account.
