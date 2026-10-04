@@ -7,7 +7,8 @@ Select “Open New Ticket” to create a new support ticket
 
 Enter the victim’s name and email address in the appropriate fields. In the Issue Summary field, enter: Potential Brute Force Attack
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/c3dc2df0427a526151a54e17155c712e15749ad1/Screenshot%202026-10-04%20155703.png)
+
 Enter the Security Alert Information, Incident Summary, Authentication Activity, and Indicators of Compromise (IOCs) in the corresponding sections.
 ![Image alt]()
 Select “Create Ticket” to complete the ticket submission process.
