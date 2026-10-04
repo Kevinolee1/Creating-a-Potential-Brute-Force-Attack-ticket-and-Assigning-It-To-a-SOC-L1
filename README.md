@@ -1,18 +1,18 @@
 # Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1
 A potential brute force attack was detected involving multiple failed authentication attempts against a user account or system. The alert was documented and assigned to a SOC Level 1 Analyst for investigation.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/9d720a9d8e0a84b9ce77d44251dc25594b6a30fa/Screenshot%202026-08-18%20191322.png)
+![Image alt]()
 Select “Open New Ticket” to create a new support ticket
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/a24d5fab57f6ff9d1b9e895fae28940622cbea79/Screenshot%202026-08-20%20130236.png)
+![Image alt]()
 Enter the victim’s name and email address in the appropriate fields. In the Issue Summary field, enter: Potential Brute Force Attack
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/02120053c3947c9dad14505a157ac65c39e1b275/Screenshot%202026-08-20%20130516.png)
+![Image alt]()
 Enter the Security Alert Information, Incident Summary, Authentication Activity, and Indicators of Compromise (IOCs) in the corresponding sections.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/06b39bd82984ef13dda4f36297ac8b9fcfc0f50b/Screenshot%202026-08-20%20130556.png)
+![Image alt]()
 Select “Create Ticket” to complete the ticket submission process.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/3525c0e4697249e62c3dad4a29230c3247f149f6/Screenshot%202026-08-18%20011200.png)
+![Image alt]()
 Log in to your SOC L1 account.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/18d360a54a671500e8b3dab5fac6176da292b048/Screenshot%202026-08-20%20130819.png)
+![Image alt]()
 Select the Potential Brute Force Attack ticket.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/b0db2eb435dbffd3527242196d9c4dbbaf95a733/Screenshot%202026-08-20%20131257.png)
+![Image alt]()
 Update the ticket priority to high.
-![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1/blob/60f045c0d52fbc9ddfa5154556a8e4993b386464/Screenshot%202026-08-20%20131602.png)
+![Image alt]()
 Assign the ticket to a SOC Level 1 (SOC L1) Analyst for investigation and triage.
